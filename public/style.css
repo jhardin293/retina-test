@@ -1,0 +1,12 @@
+.image1{
+  height: 500px;
+  background-image: url("h50mb.jpg");
+  background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
+.image2{
+  display: block;
+  background-color: white;
+  height: 500px;
+}
