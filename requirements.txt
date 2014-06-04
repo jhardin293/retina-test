@@ -1,0 +1,7 @@
+Flask==0.10.1
+gunicorn==18.0
+itsdangerous==0.24
+Jinja2==2.7.2
+MarkupSafe==0.21
+pip-tools==0.3.4
+	

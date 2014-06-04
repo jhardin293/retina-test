@@ -1,4 +1,0 @@
-retina-test
-===========
-
-Retina test
